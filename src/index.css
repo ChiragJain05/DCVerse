@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+body{
+  background: url(./assets/bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  overflow-y: auto;
+}
+
+.welcome{
+	-webkit-text-stroke-width: 4px;
+	-webkit-text-stroke-color: transparent;
+	color: #ffffff;
+	font-family: cursive;
+	background: linear-gradient(0deg, #00e7ff, #ff00d4);
+  letter-spacing: 2px;
+
+	-webkit-background-clip: text;
+	background-clip: text;
+}
+.welcome>span{
+  background: linear-gradient(0deg, #89edf8, #d7eaf8);
+  -webkit-background-clip: text;
+	background-clip: text;
+}
+
+.create-avatar-btn:hover {
+  transform: scale(1.05);
+}
