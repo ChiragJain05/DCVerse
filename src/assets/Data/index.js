@@ -17,8 +17,8 @@ export const users = [
 ];
 
 export const presetImages = [
-  "https://avatar.iran.liara.run/public/18",
-  "https://avatar.iran.liara.run/public/20",
-  "https://avatar.iran.liara.run/public/4",
-  "https://avatar.iran.liara.run/public/22",
+  "https://api.dicebear.com/7.x/thumbs/svg?seed=John",
+  "https://api.dicebear.com/7.x/thumbs/svg?seed=Mike",
+  "https://api.dicebear.com/7.x/thumbs/svg?seed=Jake",
+  "https://api.dicebear.com/7.x/thumbs/svg?seed=Emma",
 ];
