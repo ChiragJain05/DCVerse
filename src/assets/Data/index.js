@@ -2,17 +2,17 @@ export const users = [
   {
     id: 1,
     name: "john doe",
-    img: "https://avatar.iran.liara.run/public/20",
+    img: "https://api.dicebear.com/7.x/thumbs/svg?seed=John",
   },
   {
     id: 2,
     name: "Michael Williams",
-    img: "https://avatar.iran.liara.run/public/18",
+    img: "https://api.dicebear.com/7.x/thumbs/svg?seed=Jake",
   },
   {
     id: 3,
     name: "jake smith",
-    img: "https://avatar.iran.liara.run/public/4",
+    img: "https://api.dicebear.com/7.x/thumbs/svg?seed=Emma",
   },
 ];
 

@@ -5,7 +5,7 @@ import Header from './Components/Header';
 const App = () => {
   return (
     <div className=" h-screen">
-      <Header/>
+
       <Dashboard />
     </div>
   );
